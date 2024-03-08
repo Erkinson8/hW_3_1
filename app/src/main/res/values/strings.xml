@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hW_3_1</string>
+    <string name="tv_mail">mail</string>
+    <string name="tv_theme">theme</string>
+    <string name="tv_text">text</string>
+    <string name="tv_send">SEND</string>
+    <string name="tv_intents">Intents</string>
+</resources>

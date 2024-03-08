@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="HW_3_1" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+
+
+        <item name="android:statusBarColor">@android:color/black</item>
+
+
+    </style>
+
+</resources>
